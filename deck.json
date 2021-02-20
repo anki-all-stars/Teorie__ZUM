@@ -1,0 +1,332 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "9a825c08-7396-11eb-a4fa-38d5479d0148",
+    "deck_config_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
+            "currentValue": 120,
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxLife": 120,
+            "maxTaken": 60,
+            "name": "[Intense] English C1",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50,
+                "separate": true
+            },
+            "recover": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 50
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "0X4KcohJX273KInoeISzWhpcUFWfA4chrN9GxqmDbdM.original.fullsize.png",
+        "0XfR3ycK7elESe5TYUeJl6ClZpuEAbi14scpsnV8W6c.original.fullsize.png",
+        "BtuqZbsNR7JodwtDexd1S0jzp3LNCG2E0NwwCjeXF-s.original.fullsize.png",
+        "G-Oz8AWqvi9QIbmvWiRC200gOUsagkIoSBm0E1J9d8s.original.fullsize.png",
+        "GrqUQDJthGP9LKN4fkejsC89b-pQeDHm26ceHBvt75k.original.fullsize.png",
+        "SlwZpy2TFIBrOWk8SlnGA7x8Sf8fjO-HwyyaZPs9MxI.original.fullsize.png",
+        "SxaTuGjmhRP7yZKzbQ0X5jk8GCltjnXKuawAB_wdDPE.original.fullsize.png",
+        "Tepn9iFl9hlnOaEIa6Oy1Lig-z-11J-PRWJsQfxIcJI.original.fullsize.png",
+        "YhR73-ci6vTVwLIfKD5tfcD3WfqIkSm17Xk9mADfUb8.original.fullsize.png",
+        "dQilKYdV4yFoqr-qdjGTFjp3VmXZkXUb1NehZScOBTY.original.fullsize.png",
+        "dW5dq4OLzSwU802TQCpYuRLxIz4Am1GNVsv1QJ95RKM.original.fullsize.png",
+        "e-U5GhqdXyc8w9DU3-xOJdHChZYLZTQIESqOGHZYxs4.original.fullsize.png",
+        "ehk091hPdgkphtpzflEkfm-cL8UU2sDYwStl43fwkIg.original.fullsize.png",
+        "sSCtPXaHBtKDXgTDaCs9RbJgnRC3oFmzspNFSktBXvo.original.fullsize.png",
+        "wyTdoXFMjmty6_MvQlahOul9a5qC5wYa91NeuCJx6ms.original.fullsize.png"
+    ],
+    "name": "Teorie::ZUM",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: black;\n text-align: center;\n background-color: white;\n}\n\n.solution {\n text-align: left;\n}",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Question",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Solution",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "CVUT",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "osy-3-tyden"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{Question}}\n\n<hr id=answer>\n\n<div style=\"text-align: center;\">\n    <div style=\"display: inline-block; text-align: left;\">\n\t\t{{Solution}}\n    </div>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Question}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj AI",
+                "Umělá Inteligence (AI)<br>Umělá inteligence je věda o systémech imitujících chování inteligentních živočichů.",
+                ""
+            ],
+            "guid": "o&?qr4&,y{",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-1-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Definice: Neorientovaný graf</div>",
+                "<img src=\"GrqUQDJthGP9LKN4fkejsC89b-pQeDHm26ceHBvt75k.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "tv}+;v4}=:",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Definice: Orientovaný graf</div>",
+                "<img src=\"e-U5GhqdXyc8w9DU3-xOJdHChZYLZTQIESqOGHZYxs4.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "ryZyPk~3#3",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jak značíme množinu stavů a množinu akcí?",
+                "<img src=\"0X4KcohJX273KInoeISzWhpcUFWfA4chrN9GxqmDbdM.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "p6bQG&[C]2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj úlohu prohledávání stavového prostoru",
+                "<img src=\"SxaTuGjmhRP7yZKzbQ0X5jk8GCltjnXKuawAB_wdDPE.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "QQe3[a]u5|",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj následníka stavu",
+                "<img src=\"dQilKYdV4yFoqr-qdjGTFjp3VmXZkXUb1NehZScOBTY.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "q0#0}g6Ar)",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj cestu ve stavém prostoru",
+                "<img src=\"YhR73-ci6vTVwLIfKD5tfcD3WfqIkSm17Xk9mADfUb8.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "KCB)m*0g@~",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice: Orientovaný kořenový strom",
+                "<img src=\"wyTdoXFMjmty6_MvQlahOul9a5qC5wYa91NeuCJx6ms.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "t?j{x9BLjy",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice: List",
+                "<img src=\"SlwZpy2TFIBrOWk8SlnGA7x8Sf8fjO-HwyyaZPs9MxI.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "L~`~5nE7*X",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice: Prohledávací strom",
+                "<img src=\"ehk091hPdgkphtpzflEkfm-cL8UU2sDYwStl43fwkIg.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "A5]ig*H]IS",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kód: Random Search",
+                "<img src=\"BtuqZbsNR7JodwtDexd1S0jzp3LNCG2E0NwwCjeXF-s.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "G3.q@?uFUA",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš algoritmus BFS",
+                "<img src=\"sSCtPXaHBtKDXgTDaCs9RbJgnRC3oFmzspNFSktBXvo.original.fullsize.png\"><br><div><img src=\"dW5dq4OLzSwU802TQCpYuRLxIz4Am1GNVsv1QJ95RKM.original.fullsize.png\"><br></div>",
+                ""
+            ],
+            "guid": "dHHJoBq@r,",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš algoritmus DFS",
+                "<img src=\"Tepn9iFl9hlnOaEIa6Oy1Lig-z-11J-PRWJsQfxIcJI.original.fullsize.png\"><div><img src=\"G-Oz8AWqvi9QIbmvWiRC200gOUsagkIoSBm0E1J9d8s.original.fullsize.png\"><br></div>",
+                ""
+            ],
+            "guid": "L>^=$^3C.u",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš algoritmus rekonstrukce trasy",
+                "<img src=\"0XfR3ycK7elESe5TYUeJl6ClZpuEAbi14scpsnV8W6c.original.fullsize.png\">",
+                ""
+            ],
+            "guid": "k]Aq!,6:44",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-2-tema"
+            ]
+        }
+    ]
+}
