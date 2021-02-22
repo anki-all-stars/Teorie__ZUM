@@ -38,7 +38,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 50,
+                "perDay": 60,
                 "separate": true
             },
             "recover": 5,
@@ -126,7 +126,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "osy-3-tyden"
+                "psi-2-tyden"
             ],
             "tmpls": [
                 {
