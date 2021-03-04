@@ -51,7 +51,7 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 50
+                "perDay": 100
             },
             "timer": 0
         }
@@ -155,7 +155,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "zum-4-tema"
+                "bez-1-tyden"
             ],
             "tmpls": [
                 {
@@ -638,7 +638,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Pokud je heuristika {{c1::monotónní::monotónní/přípustná}}, pak je i {{c2::přípustná::monotónní/přípustná}}",
+                "Pokud je heuristika {{c1::monotónní::monotónní/přípustná}}, pak je i {{c1::přípustná::monotónní/přípustná}}",
                 ""
             ],
             "guid": "jCOwFmtKMN",
@@ -793,7 +793,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Jaké jsou problémy Hill Climbing?",
+                "Jaké jsou problémy algoritmu Hill Climbing?",
                 "Lokální extrémy - ke zlepšení řešení je potřeba učinit dočasně zhoršující kroky, které HC neudělá<div><br></div><div>Prokletí dimenzionality - ve vysokých dim je nepraktické generovat seznam všech sousdů</div>",
                 ""
             ],
