@@ -76,32 +76,52 @@
         "ehk091hPdgkphtpzflEkfm-cL8UU2sDYwStl43fwkIg.original.fullsize.png",
         "paste-0544129f47cb38770f4bfbbfe656d2298d6257b3.jpg",
         "paste-0d6d27994a4bd42bd63d620d744551b3feba660d.jpg",
+        "paste-105bea9808b3938f60262b8bf61c01cf5f63f430.jpg",
+        "paste-11fde3d08de640d9e768b07f7eeae5593e04065a.jpg",
         "paste-1ec82ffe9fdd2f74efbf218f98612a04737392ed.jpg",
+        "paste-24787b9b02f8486406323dc8dc4586205eb8defb.jpg",
         "paste-2880971db30f8b5514019ff9b7ff1256a537e04d.jpg",
+        "paste-3374bf374ba93edab26d3d7fa3a4f8235c6ae935.jpg",
         "paste-3cd55f6d28db0d43ec0959e3294ca0225ebf8bee.jpg",
+        "paste-3fa89ead5a33b39de9d9c6bff87b74e70505d85e.jpg",
+        "paste-41e22ad17c082a2cb0e67ff82b36b7123ade3aaf.jpg",
         "paste-4634f643903942ace137c39996194d1988be39ca.jpg",
+        "paste-504b97e3f010f52df2cea5a1a1626eb827bda749.jpg",
         "paste-538dc2e293cd9e0573209e8a1173359e6b4ded3e.jpg",
         "paste-5bedb803d2c39d3b214f18d5f8648a677865255e.jpg",
         "paste-5c8bc6744c242735c494cfad24eb9549b65357de.jpg",
+        "paste-5ec96ca94b888add12806a53410082cf05c33f2a.jpg",
+        "paste-60f96c3e2eff4ddfda57840815b45fbae9aa0698.jpg",
+        "paste-6319753e7575b201756d24591092148dd97e1f1f.jpg",
         "paste-6479a6b4067886fa34d2bf98ec2a7195609ec8de.jpg",
         "paste-687abc9227d3669f1adb31ab2a991d3717dcb7ad.jpg",
+        "paste-71fb1a6b4db4c8ce9fa8ac62c45cbb67e3ee9814.jpg",
         "paste-828b3714cbbac0f041b37845d00b52522748ce66.jpg",
         "paste-8b00dc2814121e989c0df7162cfb46daf3cc2a46.jpg",
+        "paste-8d64b10706dbf484f42c927ed77338868e8dec9a.jpg",
         "paste-99805bcd091ee26234b6e6b67466b78d2b1c316b.jpg",
         "paste-9b589f1ce830d775077e035fd9fbe21246d8df17.jpg",
         "paste-9d5003d95cc6a892386a280c647db2309872878d.jpg",
         "paste-9e62ac8d185a3ebbcc9fdf2b19d5bb1f6bf9ab3b.jpg",
+        "paste-a6db6169e327614aa70b900e864910987fe5291b.jpg",
         "paste-aa145b0b6554d7c523c13e435524dc828b995e0d.jpg",
+        "paste-abbe1896f2943ffbb13071e810fe9ba452bed978.jpg",
+        "paste-ac7545d99eb4d58cdd21402f791bc1af87ed10ae.jpg",
         "paste-b2bd5d1d8069bd24d37ff4d5c15f472f9840cb81.jpg",
+        "paste-b4dc6d70920c0eb52614651f2913c04f8a9788e6.jpg",
         "paste-b5decbc1cdae16982940d5674ed0d02e813f2244.jpg",
         "paste-bc3b9253de9cae43e52e7cebee41170ae38a2776.jpg",
+        "paste-c15b5f3656286ffb267c7f522e5733a72cc7046a.jpg",
         "paste-e334620b5e4d0bf934d03962073f18432e430bb7.jpg",
+        "paste-e8daa1acf0e3674d6de8498e4e6f487c9448305e.jpg",
         "paste-efa3740d19350b203b9a7ebc1825ebd84bda275a.jpg",
+        "paste-efedf1d9ffb3deae598da9a26ef069d0195acc7b.jpg",
         "paste-f01b5d5c3a69d56e80e428ae8cbed53c20068938.jpg",
         "paste-f36f9d62746d7b9943d64b0d05e87889e2372cc6.jpg",
         "paste-f4a9f9824321c2b9f0f5dc92950bd47f590e0bc9.jpg",
         "paste-fb66a12d01d37330374d26338185cc39e93e09ee.jpg",
         "paste-fd8a27cbdd33d14ca37439e210eff281e350aff5.jpg",
+        "paste-fe87bf1cc5f6418e04aded7cc3197aa6968297af.jpg",
         "paste-ff26bb149a68c6c0b5cf6d0a42242c5cd8560f0e.jpg",
         "sSCtPXaHBtKDXgTDaCs9RbJgnRC3oFmzspNFSktBXvo.original.fullsize.png",
         "wyTdoXFMjmty6_MvQlahOul9a5qC5wYa91NeuCJx6ms.original.fullsize.png"
@@ -155,7 +175,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "psi-3-tyden"
+                "zum-5-tyden"
             ],
             "tmpls": [
                 {
@@ -214,6 +234,61 @@
             "tags": [
                 "zum-3-tema"
             ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br><br><br>\n<div class=\"extra\">\n{{Extra}}\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n\n.extra {\n\tcolor: #dddddd;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze Extra Gray",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br><br><br>\n<div class=\"extra\">\n{{Extra}}\n</div>",
@@ -840,6 +915,291 @@
             "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
             "tags": [
                 "zum-4-tema"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaký je obecný princip General Problem Solving?",
+                "<img src=\"paste-504b97e3f010f52df2cea5a1a1626eb827bda749.jpg\">",
+                ""
+            ],
+            "guid": "t1P3ez-8iD",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj deterministický systém",
+                "<img src=\"paste-ac7545d99eb4d58cdd21402f791bc1af87ed10ae.jpg\">",
+                ""
+            ],
+            "guid": "I9Z>>cb@VD",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj nedeterministický systém",
+                "<img src=\"paste-24787b9b02f8486406323dc8dc4586205eb8defb.jpg\">",
+                ""
+            ],
+            "guid": "N!09rI2sIn",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj pravděpodobnostní systém",
+                "<img src=\"paste-e8daa1acf0e3674d6de8498e4e6f487c9448305e.jpg\">",
+                ""
+            ],
+            "guid": "s$3Nv$q6Rh",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jaké mohou být pozorovatelnosti v plánovacích modelech?",
+                "Úplná - víme co se všude děje (člověče nezlob se)<div>Částečná - pozorujeme pouze část modelu (Starcraft)</div><div>Žádná - nemáme zpětnou vazbu o akcích které provádíme (?????)</div>",
+                ""
+            ],
+            "guid": "b4JW:W9qMj",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj diskrétní stavový prostor",
+                "<img src=\"paste-41e22ad17c082a2cb0e67ff82b36b7123ade3aaf.jpg\">",
+                ""
+            ],
+            "guid": "bMQ`Qki5fZ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj spojitý stavový prostor",
+                "<img src=\"paste-efedf1d9ffb3deae598da9a26ef069d0195acc7b.jpg\">",
+                ""
+            ],
+            "guid": "Az5/kM@G7)",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj plánovací úlohu ve STRIPS",
+                "<img src=\"paste-105bea9808b3938f60262b8bf61c01cf5f63f430.jpg\">",
+                ""
+            ],
+            "guid": "q*)yDz{,4u",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj aplikaci akce ve STRIPS",
+                "<img src=\"paste-60f96c3e2eff4ddfda57840815b45fbae9aa0698.jpg\">",
+                ""
+            ],
+            "guid": "g-;zJNr;M3",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj plán ve STRIPS",
+                "<img src=\"paste-11fde3d08de640d9e768b07f7eeae5593e04065a.jpg\">",
+                ""
+            ],
+            "guid": "x}0la#~VK<",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj STRIPS úlohu prohledávání stavového prostoru",
+                "<img src=\"paste-fe87bf1cc5f6418e04aded7cc3197aa6968297af.jpg\">",
+                ""
+            ],
+            "guid": "mdPQMw34k9",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená když plánovací algoritmus je vyhovující?",
+                "<img src=\"paste-8d64b10706dbf484f42c927ed77338868e8dec9a.jpg\">",
+                ""
+            ],
+            "guid": "m}Gb3Enb~W",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená když plánovací algoritmus je optimální?",
+                "<img src=\"paste-b4dc6d70920c0eb52614651f2913c04f8a9788e6.jpg\">",
+                ""
+            ],
+            "guid": "u/l|^om;L]",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená když plánovací algoritmus je dopředný?",
+                "<img src=\"paste-6319753e7575b201756d24591092148dd97e1f1f.jpg\">",
+                ""
+            ],
+            "guid": "AFdMPrOOBv",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená když plánovací algoritmus je zpětný?",
+                "<img src=\"paste-71fb1a6b4db4c8ce9fa8ac62c45cbb67e3ee9814.jpg\">",
+                ""
+            ],
+            "guid": "LLjs1k@0f<",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Co znamená když plánovací algoritmus je obousměrný?",
+                "<img src=\"paste-5ec96ca94b888add12806a53410082cf05c33f2a.jpg\">",
+                ""
+            ],
+            "guid": "QFV}XV[=ZE",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj relaxovanou akci",
+                "<img src=\"paste-a6db6169e327614aa70b900e864910987fe5291b.jpg\">",
+                ""
+            ],
+            "guid": "QXUPd-*G!x",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj relaxaci plánovací úlohy",
+                "<img src=\"paste-abbe1896f2943ffbb13071e810fe9ba452bed978.jpg\">",
+                ""
+            ],
+            "guid": "t2BHi|66rE",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definuj relaxaci plánu",
+                "<img src=\"paste-3fa89ead5a33b39de9d9c6bff87b74e70505d85e.jpg\">",
+                ""
+            ],
+            "guid": "LI1&@[vPBP",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definice heurestiky h^+",
+                "<img src=\"paste-c15b5f3656286ffb267c7f522e5733a72cc7046a.jpg\">",
+                ""
+            ],
+            "guid": "H}[d&2D)dh",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Heurestika&nbsp;\\(h^+\\)&nbsp;{{c1::je::je/není}} přípustná",
+                ""
+            ],
+            "guid": "fm31v/;$1K",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Popiš princip abstrakce",
+                "<img src=\"paste-3374bf374ba93edab26d3d7fa3a4f8235c6ae935.jpg\">",
+                ""
+            ],
+            "guid": "tzohT|fPf(",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "zum-5-tyden"
             ]
         }
     ]
