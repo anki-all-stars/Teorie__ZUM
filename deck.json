@@ -64,11 +64,9 @@
         "0X4KcohJX273KInoeISzWhpcUFWfA4chrN9GxqmDbdM.original.fullsize.png",
         "0XfR3ycK7elESe5TYUeJl6ClZpuEAbi14scpsnV8W6c.original.fullsize.png",
         "BtuqZbsNR7JodwtDexd1S0jzp3LNCG2E0NwwCjeXF-s.original.fullsize.png",
-        "G-Oz8AWqvi9QIbmvWiRC200gOUsagkIoSBm0E1J9d8s.original.fullsize.png",
         "GrqUQDJthGP9LKN4fkejsC89b-pQeDHm26ceHBvt75k.original.fullsize.png",
         "SlwZpy2TFIBrOWk8SlnGA7x8Sf8fjO-HwyyaZPs9MxI.original.fullsize.png",
         "SxaTuGjmhRP7yZKzbQ0X5jk8GCltjnXKuawAB_wdDPE.original.fullsize.png",
-        "Tepn9iFl9hlnOaEIa6Oy1Lig-z-11J-PRWJsQfxIcJI.original.fullsize.png",
         "YhR73-ci6vTVwLIfKD5tfcD3WfqIkSm17Xk9mADfUb8.original.fullsize.png",
         "dQilKYdV4yFoqr-qdjGTFjp3VmXZkXUb1NehZScOBTY.original.fullsize.png",
         "dW5dq4OLzSwU802TQCpYuRLxIz4Am1GNVsv1QJ95RKM.original.fullsize.png",
@@ -119,7 +117,6 @@
         "paste-f01b5d5c3a69d56e80e428ae8cbed53c20068938.jpg",
         "paste-f36f9d62746d7b9943d64b0d05e87889e2372cc6.jpg",
         "paste-f4a9f9824321c2b9f0f5dc92950bd47f590e0bc9.jpg",
-        "paste-fb66a12d01d37330374d26338185cc39e93e09ee.jpg",
         "paste-fd8a27cbdd33d14ca37439e210eff281e350aff5.jpg",
         "paste-fe87bf1cc5f6418e04aded7cc3197aa6968297af.jpg",
         "paste-ff26bb149a68c6c0b5cf6d0a42242c5cd8560f0e.jpg",
@@ -140,7 +137,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Liberation Sans",
@@ -175,7 +172,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "zum-5-tyden"
+                "osy-7-tyden"
             ],
             "tmpls": [
                 {
@@ -232,7 +229,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "zum-3-tema"
+                "osy-7-tyden"
             ],
             "tmpls": [
                 {
@@ -440,7 +437,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Kód: Random Search",
+                "Kód: Grafový Random Search",
                 "<img src=\"BtuqZbsNR7JodwtDexd1S0jzp3LNCG2E0NwwCjeXF-s.original.fullsize.png\">",
                 ""
             ],
@@ -467,7 +464,7 @@
             "__type__": "Note",
             "fields": [
                 "Popiš algoritmus DFS",
-                "<img src=\"Tepn9iFl9hlnOaEIa6Oy1Lig-z-11J-PRWJsQfxIcJI.original.fullsize.png\"><div><img src=\"G-Oz8AWqvi9QIbmvWiRC200gOUsagkIoSBm0E1J9d8s.original.fullsize.png\"><br></div>",
+                "<div>DFS expanduje strom systematicky, snaží se vždy o největší zanoření</div>",
                 ""
             ],
             "guid": "L>^=$^3C.u",
@@ -623,7 +620,7 @@
             "__type__": "Note",
             "fields": [
                 "Popiš výhody a nevýhoda Dijkstry",
-                "<img src=\"paste-fb66a12d01d37330374d26338185cc39e93e09ee.jpg\">",
+                "<div>+ Najde optimální řešení &lt;=&gt; expanduje uzel až je cesta k němu skutečně nejkratší</div><div>- nemá \"tah na bránu\"</div>",
                 ""
             ],
             "guid": "O,K#6ZJ~nx",
@@ -985,7 +982,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Definuj diskrétní stavový prostor",
+                "Definuj <b>diskrétní</b> stavový prostor",
                 "<img src=\"paste-41e22ad17c082a2cb0e67ff82b36b7123ade3aaf.jpg\">",
                 ""
             ],
@@ -998,7 +995,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Definuj spojitý stavový prostor",
+                "Definuj <b>spojitý</b> stavový prostor",
                 "<img src=\"paste-efedf1d9ffb3deae598da9a26ef069d0195acc7b.jpg\">",
                 ""
             ],
@@ -1167,7 +1164,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Definice heurestiky h^+",
+                "Definice heurestiky \\(h^+\\)",
                 "<img src=\"paste-c15b5f3656286ffb267c7f522e5733a72cc7046a.jpg\">",
                 ""
             ],
