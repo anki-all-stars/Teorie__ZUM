@@ -171,9 +171,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "osy-7-tyden"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{Question}}\n\n<hr id=answer>\n\n<div style=\"text-align: center;\">\n    <div style=\"display: inline-block; text-align: left;\">\n\t\t{{Solution}}\n    </div>\n</div>",
